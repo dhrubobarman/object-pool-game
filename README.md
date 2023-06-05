@@ -1,6 +1,3 @@
-# object-pool-game
-
-
 # Object Pool Game
 This is a TypeScript project that demonstrates the use of object pool design pattern in game development. The project uses a class called GameObjectPool to manage a pool of reusable game objects, such as bullets or enemies. The class has methods to get an object from the pool, clear its state, and return it to the pool. This way, the project avoids creating and destroying game objects every time, which can improve performance and memory efficiency.
 
